@@ -15,7 +15,10 @@ plugins/Backup/config.yml :
 
  - backupsCooldown: 12 hours: This is the time interval between each backup. In this case, a backup will be created every 12 hours.
 
-# License
+
+
+
+## License
 
    Modified Apache License, Version 2.0
 
