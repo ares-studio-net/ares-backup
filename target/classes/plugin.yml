@@ -1,0 +1,7 @@
+name: Backup
+version: '1.0.0-SNAPSHOT'
+main: pl.kpgtb.backup.Backup
+api-version: 1.18
+authors: [KPG_TB]
+description: A simple backup plugin
+website: kpgtb.pl
