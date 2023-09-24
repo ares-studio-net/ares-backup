@@ -19,6 +19,8 @@ public final class Backup extends JavaPlugin {
     @Override
     public void onEnable() {
         saveDefaultConfig();
+
+        new Metrics(this, 19881);
         long delay = getConfig().getLong("backupsCooldown");
         delay = delay * 60 * 60 * 20;
 
@@ -28,7 +30,6 @@ public final class Backup extends JavaPlugin {
                 createBackup();
             }
         }.runTaskTimer(this,1,delay);
-
     }
 
     @Override
