@@ -55,6 +55,6 @@ By accepting this Modified License, you agree to the conditions stated herein. I
 
 ANY COMMERCIAL USE OF THE SOFTWARE IS EXPRESSLY PROHIBITED UNDER THIS MODIFIED LICENSE. IF YOU WISH TO USE THE SOFTWARE FOR COMMERCIAL PURPOSES, PLEASE CONTACT THE LICENSOR FOR SPECIFIC PERMISSION.
 
-For any questions regarding this Modified License, please contact [Your Name or Entity Name] at [your email address].
+For any questions regarding this Modified License, please contact Ares-studio.net at [contact@ares-studio.net / +32 456 53 72 85].
 
 [Ares-Studio.net]
